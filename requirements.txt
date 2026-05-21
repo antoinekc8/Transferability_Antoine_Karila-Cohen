@@ -20,3 +20,4 @@ seaborn
 plotly
 ipykernel
 ipywidgets
+nbformat>=4.2.0
