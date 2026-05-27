@@ -1,4 +1,4 @@
-eclipse-sumo==1.14.0
+eclipse-sumo
 traci
 sumolib
 libsumo
