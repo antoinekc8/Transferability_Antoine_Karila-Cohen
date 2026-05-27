@@ -1,7 +1,4 @@
-eclipse-sumo
-traci
-sumolib
-libsumo
+eclipse-sumo==1.27.0
 tqdm==4.59.0
 gym
 setproctitle
@@ -20,4 +17,5 @@ seaborn
 plotly
 ipykernel
 ipywidgets
+nbclient>=0.10.0
 nbformat>=4.2.0
