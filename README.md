@@ -20,19 +20,7 @@ Despite impressive results in simulation, DRL-based TSC systems consistently fai
 
 ---
 
-## Repository Contents
 
-```
-├── articles/
-│   └── full_article_list.csv       # All 117 reviewed articles with metadata
-├── figures/
-│   ├── annual_progression.png      # Publication growth 2021–2026
-│   ├── literature_distribution.png # L2L / S2S / S2R breakdown
-│   ├── l2l_strategies.png
-│   ├── s2s_strategies.png
-│   └── s2r_strategies.png
-└── README.md
-```
 
 ---
 
