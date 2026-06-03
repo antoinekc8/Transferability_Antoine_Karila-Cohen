@@ -20,16 +20,17 @@ Despite impressive results in simulation, DRL-based TSC systems consistently fai
 
 ---
 
-
-
----
-
 ## Methodology
 
 - **117 peer-reviewed articles** (2021–2026)
 - Sources: Scopus, Web of Science, Google Scholar
 - Selection: abstract screening + snowballing
 - Keywords: reinforcement learning · traffic signal control · transferability · sim2real · cross-city · meta-learning
+- **References:** All papers reviewed, categorized by transferability type, are available via the `.bib` files present in this repository.
+- **Scopus Query:**
+```text
+  (TITLE-ABS-KEY ( "reinforcement learning" OR "deep RL" OR "policy learning" OR"multi-agent" ) AND TITLE-ABS-KEY ( "traffic signal control" OR "traffic light control") AND TITLE-ABS-KEY ("transferability" OR transferab* OR generaliz* OR "city-to-city" OR "city to city" OR"cross-city" OR "cross city" OR "Transferlight" OR "Knowledge Transfer" OR "Transfer Learning" OR "sim2real" OR "real-world" OR "real world" OR "sim-to-real" OR "simulation-to-reality" )) AND PUBYEAR > 2020 AND PUBYEAR < 2027 AND ( LIMIT-TO ( DOCTYPE,"ar" ) OR LIMIT-TO ( DOCTYPE,"cp" ) OR LIMIT-TO ( DOCTYPE,"cr" ) ) AND ( LIMIT-TO ( LANGUAGE,"English" ) )
+  ```
 
 ---
 
